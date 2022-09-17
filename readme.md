@@ -25,8 +25,8 @@ This is the 10th reponsive project-challenge among the 15 Ineuron-projects.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-02)
-- Live Site URL: [netlify.app](https://project-02-restaurant.netlify.app/)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project---10)
+- Live Site URL: [netlify.app](https://project-10-design-landing.netlify.app/)
 
 ## My process
 
